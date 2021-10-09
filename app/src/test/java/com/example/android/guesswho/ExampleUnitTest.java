@@ -1,4 +1,4 @@
-package com.example.android.guesswho;
+package com.example.android.number-game;
 
 import org.junit.Test;
 
