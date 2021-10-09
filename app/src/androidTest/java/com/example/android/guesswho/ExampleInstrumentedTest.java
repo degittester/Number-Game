@@ -1,4 +1,4 @@
-package com.example.android.guesswho;
+package com.example.android.number-game;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
