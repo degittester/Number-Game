@@ -46,4 +46,4 @@ in an XML file with an ID assigned to each component.
             }
         });
 ***
-* *THAT'S IT* Good start to kick off your career as Android Developer.
+* *THAT'S IT* Good start to kick off your career as an Android Developer Start Contributing. Good Luck
